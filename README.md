@@ -1,5 +1,5 @@
 ### Hi there, I'm Marina! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-###### Full stack web development student in Trybe!
+#### Full stack web development student in Trybe!
 <!--
 **MarinaAlane/MarinaAlane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
