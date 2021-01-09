@@ -1,11 +1,9 @@
 ### Hi there, I'm Marina! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-#### Full stack web development student in Trybe!
-<!--
-**MarinaAlane/MarinaAlane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Full stack web development student in Trybe! :technologist_medium_light_skin_tone:
 
 Here are some ideas to get you started:
 
-- :technologist_medium_light_skin_tone: 
+- collaboration: ask anything you want! I'm learning, but I'm happy to help if I can
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -13,7 +11,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarinaAlane&layout=compact)
 <br>
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MarinaAlane&theme=dracula&show_icons=true)
