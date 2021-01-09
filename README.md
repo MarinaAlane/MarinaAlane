@@ -1,12 +1,11 @@
 ### Hi there, I'm Marina! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-https://img.shields.io/github/watchers/MarinaAlane/MarinaAlane?style=social
-
+## Full stack web development student in Trybe!## <img src="https://files.slack.com/files-pri/TMDDFEPFU-F01GSSML50C/wallpaper_04.png" width="40px"
 <!--
 **MarinaAlane/MarinaAlane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- :technologist_medium_light_skin_tone: 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
