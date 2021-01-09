@@ -1,5 +1,5 @@
 ### Hi there, I'm Marina! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-#### Full stack web development student in Trybe! :technologist_medium_light_skin_tone:
+#### Full stack web development student in Trybe! 	U+1F9D1, U+1F3FC, U+200D, U+1F4BB
 
 
 :technologist_medium_light_skin_tone:  collaboration: ask anything you want! I'm learning, but I'm glad to help if I can !
