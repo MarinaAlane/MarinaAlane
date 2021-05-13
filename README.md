@@ -6,6 +6,8 @@
 
 [![LinkedIn](pngwing.com.png)](https://www.linkedin.com/in/marina-alane/)
 [![Instagram](Instagram.png)](httphttps://www.instagram.com/alanemarina/)
+[![Instagram](Instagram.png)](marinaalane17@gmail.com)
+
 
 
 
