@@ -4,7 +4,7 @@
 
   💡  Collaboration: ask anything you want! I'm learning, but I'm glad to help if I can !
 
-[![LinkedIn](pngwing.com.png)](https://www.linkedin.com/in/marina-alane/)
+[![LinkedIn](linkedin.png)](https://www.linkedin.com/in/marina-alane/)
 [![Instagram](Instagram.png)](httphttps://www.instagram.com/alanemarina/)
 
 
