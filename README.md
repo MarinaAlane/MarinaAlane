@@ -4,7 +4,9 @@
 
   💡  Collaboration: ask anything you want! I'm learning, but I'm glad to help if I can !
 
-[![LinkedIn](https://www.pngwing.com/en/free-png-stfjo)](https://www.linkedin.com/in/marina-alane/)
+[![LinkedIn](pngwing.com.png)](https://www.linkedin.com/in/marina-alane/)
+[![Instagram](pngwing.com.png)](httphttps://www.instagram.com/alanemarina/)
+
 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MarinaAlane&theme=dracula&show_icons=true)
