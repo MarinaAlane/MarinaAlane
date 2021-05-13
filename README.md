@@ -6,7 +6,6 @@
 
 [![LinkedIn](pngwing.com.png)](https://www.linkedin.com/in/marina-alane/)
 [![Instagram](Instagram.png)](httphttps://www.instagram.com/alanemarina/)
-[![Instagram](Instagram.png)]<a href="mailto:marinaalane117@gmail.com?subject=Hello%20again">
 
 
 
