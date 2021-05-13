@@ -5,8 +5,8 @@
   💡  Collaboration: ask anything you want! I'm learning, but I'm glad to help if I can !
 
 ## Find me 
-[![LinkedIn](linkedin.png)](https://www.linkedin.com/in/marina-alane/)
-[![Instagram](insta1.png)](https://www.instagram.com/alanemarina/)
+[![LinkedIn](linkedin1.png)](https://www.linkedin.com/in/marina-alane/)
+[![Instagram](instagram.png)](https://www.instagram.com/alanemarina/)
 [![Mail](email1.png)](mailto:marinaalane17@gmail.com)
 
 
