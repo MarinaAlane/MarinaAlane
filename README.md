@@ -7,7 +7,7 @@
 ## Find me 
 [![LinkedIn](linkedin.png)](https://www.linkedin.com/in/marina-alane/)
 [![Instagram](insta1.png)](https://www.instagram.com/alanemarina/)
-
+[![Mail](mail.png)](mailto:marinaalane17@gmail.com)
 
 
 
