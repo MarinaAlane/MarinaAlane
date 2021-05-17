@@ -3,6 +3,8 @@
 
 
   💡  Collaboration: ask anything you want! I'm learning, but I'm glad to help if I can !
+  📚  Studying : React, MySQL
+  
 
 ## Find me 
 [![LinkedIn](linkedin1.png)](https://www.linkedin.com/in/marina-alane/)
