@@ -6,11 +6,15 @@
   <br />
   📚  Studying : React, MySQL
   
+## Tools I use:
+<a target="_blank"><img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-%2312100E.svg?logo=visual-studio&style=for-the-badge&logoColor=purple"/></a> 
+<a target="_blank"><img alt="Git" src="https://img.shields.io/badge/Git-%2312100E.svg?logo=git&style=for-the-badge"/></a> 
 
 ## Find me 
 [![LinkedIn](linkedin1.png)](https://www.linkedin.com/in/marina-alane/)
 [![Instagram](instagram.png)](https://www.instagram.com/alanemarina/)
 [![Mail](mail.png)](mailto:marinaalane17@gmail.com)
+
 
 
 
