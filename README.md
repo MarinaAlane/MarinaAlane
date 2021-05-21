@@ -10,11 +10,13 @@
 <img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />
 <img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" alt="React logo" title="React.js / React Native" height="25" />
 <img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="25" />
-
   
 ## 🛠️ Tools I use:
 <img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /> <img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" /> 
 <img src="https://img.shields.io/badge/ESLint-282C34?logo=eslint&logoColor=4B32C3" alt="ESLint logo" title="ESLint" height="25" />
+
+## 📖 Looking forward to learn
+<img src="https://img.shields.io/badge/MySQL-282C34?logo=MySQL&logoColor=ffa500" alt="Redux logo" title="MySQL" height="25" /> <img src="https://img.shields.io/badge/PHP-282C34?logo=PHP&logoColor=a020f0" alt="Redux logo" title="MySQL" height="25" />
 
 ## Find me:
 [![LinkedIn](linkedin1.png)](https://www.linkedin.com/in/marina-alane/)
