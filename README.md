@@ -6,12 +6,15 @@
 #### Estudante de desenvolvimento web FullStack na [Trybe!](https://www.betrybe.com/) 🧑🏼‍💻
 
   💡  Colaboração é um valor por aqui. Se eu puder ajudar em qualquer coisa, é só me chamar que vou ficar feliz em ajudar!
-  <br />
 
 <br />
 <br />
 <br />
 <br />
+<br />
+<br />
+
+
  ## 📚 Aprendendo sempre mais:
 
 <img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /> <img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" />
@@ -29,9 +32,6 @@
 ## 📖 Pretendo aprender em breve:
 <img src="https://img.shields.io/badge/MySQL-282C34?logo=MySQL&logoColor=ffa500" alt="Redux logo" title="MySQL" height="25" /> <img src="https://img.shields.io/badge/PHP-282C34?logo=PHP&logoColor=836FFF" alt="Redux logo" title="MySQL" height="25" />
 
-<br />
-<br />
-<br />
 <br />
 
 <img src='https://github-readme-stats.vercel.app/api?username=MarinaAlane&theme=dracula&show_icons=true'>
