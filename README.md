@@ -28,7 +28,7 @@
 <br />
 <br />
 
-<div align='right'>
+<div align='center'>
  <img src='https://github-readme-stats.vercel.app/api?username=MarinaAlane&theme=dracula&show_icons=true'>
 </div>
 <div align='center'>
