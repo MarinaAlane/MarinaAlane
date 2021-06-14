@@ -15,14 +15,12 @@
 <img src="https://img.shields.io/badge/Jest-282C34?logo=jest&logoColor=cc0000" alt="Jest logo" title="Jest" height="25" />
 
 <br />
-<br />
   
 ## 🛠️ Eu costumo usar:
 <img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /> <img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git 836FFFlogo" title="git" height="25" /> 
 <img src="https://img.shields.io/badge/ESLint-282C34?logo=eslint&logoColor=191970" alt191970="ESLint logo" title="ESLint" height="25" />
 <img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap&logoColor=836FFF" alt="Bootstrap logo" title="ESLint" height="25" />
 
-<br />
 <br />
 
 ## 📖 Pretendo aprender em breve:
