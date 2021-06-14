@@ -1,6 +1,6 @@
 <div align='center'> <h1> Oi, aqui é a Marina! Fique à vontade por aqui!</h1></div>
 
-<img src='https://media.giphy.com/media/Vh2Ap0KMAEoMhmBzdK/giphy.gif' align='left'>
+<img src='https://media.giphy.com/media/Vh2Ap0KMAEoMhmBzdK/giphy.gif' align='left' height='250px'>
 <br />
 
 #### Estudante de desenvolvimento web FullStack na [Trybe!](https://www.betrybe.com/) 🧑🏼‍💻
