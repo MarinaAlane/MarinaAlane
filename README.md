@@ -28,18 +28,17 @@
 <br />
 <br />
 
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MarinaAlane&theme=dracula&show_icons=true)
-
-<br />
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarinaAlane&layout=compact)
-
+<div align='center'>
+ <img src='https://github-readme-stats.vercel.app/api?username=MarinaAlane&theme=dracula&show_icons=true'>
 
 <br />
+
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=MarinaAlane&layout=compact'>
+</div>
+
+<br />
 <br />
 
-## Pra falar comigo
 [![LinkedIn](linkedin1.png)](https://www.linkedin.com/in/marina-alane/)
 [![Instagram](instagram.png)](https://www.instagram.com/alanemarina/)
 [![Mail](mail.png)](mailto:marinaalane17@gmail.com)
