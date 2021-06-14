@@ -12,14 +12,12 @@ Se ha alguns anos atrás alguém me dissesse que eu trocaria o curso de Filosofi
 
   :heart:  Apaixonada por gatos e baleias!
   
-  📺  Gosto de Reality Shows
+  📺  Pra relaxar, nada como um bom reality show
   
   🖥️  Me encontrei na programação
   
   💡  Colaboração é um valor por aqui. Se eu puder ajudar em qualquer coisa, é só me chamar que vou ficar feliz em ajudar!
 
-<br />
-<br />
 <br />
 <br />
 <br />
