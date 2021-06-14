@@ -3,17 +3,21 @@
 <img src='https://media.giphy.com/media/Vh2Ap0KMAEoMhmBzdK/giphy.gif' align='left' height='350px'>
 
 #### Estudante de desenvolvimento web FullStack na [Trybe!](https://www.betrybe.com/) 🧑🏼‍💻
+ 
+Se ha alguns anos atrás alguém me dissesse que eu trocaria o curso de Filosofia por Programação, provavelmente eu falaria pra pessoa parar de viajar. Mas essa está sendo a melhor viagem da minha vida até agora!
 
 <br />
 <br />
-<br />
-<br />
-<br />
-<br />
 
+
+  :heart:  Apaixonada por gatos e baleias!
+  
+  📺  Gosto de Reality Shows
+  
+  🖥️  Me encontrei na programação
+  
   💡  Colaboração é um valor por aqui. Se eu puder ajudar em qualquer coisa, é só me chamar que vou ficar feliz em ajudar!
 
-<br />
 <br />
 <br />
 <br />
