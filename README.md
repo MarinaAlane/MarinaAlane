@@ -1,9 +1,11 @@
 <div align='center'> <h1> Oi, aqui é a Marina! Fique à vontade por aqui!</h1></div>
 
 <img src='https://media.giphy.com/media/Vh2Ap0KMAEoMhmBzdK/giphy.gif' align='left' height='350px'>
-<br />
 
 #### Estudante de desenvolvimento web FullStack na [Trybe!](https://www.betrybe.com/) 🧑🏼‍💻
+
+<br />
+<br />
 
   💡  Colaboração é um valor por aqui. Se eu puder ajudar em qualquer coisa, é só me chamar que vou ficar feliz em ajudar!
 
