@@ -28,13 +28,8 @@
 <br />
 <br />
 
-<div align='center'>
- <img src='https://github-readme-stats.vercel.app/api?username=MarinaAlane&theme=dracula&show_icons=true'>
-</div>
-<div align='center'>
+<img src='https://github-readme-stats.vercel.app/api?username=MarinaAlane&theme=dracula&show_icons=true'>
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=MarinaAlane&layout=compact'>
-</div>
-
 <br />
 <br />
 
