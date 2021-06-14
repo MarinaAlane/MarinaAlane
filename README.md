@@ -21,8 +21,6 @@ Se ha alguns anos atrás alguém me dissesse que eu trocaria o curso de Filosofi
 <br />
 <br />
 <br />
-<br />
-<br />
 
 
  ## 📚 Aprendendo sempre mais:
