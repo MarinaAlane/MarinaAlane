@@ -4,7 +4,7 @@
 
 #### Estudante de desenvolvimento web FullStack na [Trybe!](https://www.betrybe.com/) 🧑🏼‍💻
  
-Se ha alguns anos atrás alguém me dissesse que eu trocaria o curso de Filosofia por Programação, provavelmente eu falaria pra pessoa parar de viajar. Mas essa está sendo a melhor viagem da minha vida até agora!
+Se há alguns anos alguém me dissesse que eu trocaria o curso de Filosofia por Programação, provavelmente eu falaria pra pessoa parar de viajar. Mas essa está sendo a melhor viagem da minha vida até agora!
 
 <br />
 <br />
