@@ -12,11 +12,11 @@ Se há alguns anos alguém me dissesse que eu trocaria o curso de Filosofia por 
 
   :heart:  Apaixonada por gatos e baleias!
   
-  📺  Pra relaxar, nada como um bom reality show
+  📺    Pra relaxar, nada como um bom reality show
   
-  🖥️  Me encontrei na programação
+  🖥️    Me encontrei na programação
   
-  💡  Colaboração é um valor por aqui. Se eu puder ajudar em qualquer coisa, é só me chamar que vou ficar feliz em ajudar!
+  💡    Colaboração é um valor por aqui. Se eu puder ajudar em qualquer coisa, é só me chamar que vou ficar feliz em ajudar!
 
 <br />
 <br />
