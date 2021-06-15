@@ -4,17 +4,21 @@
 
 #### Estudante de desenvolvimento web FullStack na [Trybe!](https://www.betrybe.com/) 🧑🏼‍💻
  
+ 
 Se há alguns anos alguém me dissesse que eu trocaria o curso de Filosofia por Programação, provavelmente eu falaria pra pessoa parar de viajar. Mas essa está sendo a melhor viagem da minha vida até agora!
 
 <br />
 <br />
 
 
-  :heart:  Apaixonada por gatos e baleias!
+  :heart: Apaixonada por gatos e baleias!
+  
   
   📺    Pra relaxar, nada como um bom reality show
   
+  
   🖥️    Me encontrei na programação
+  
   
   💡    Colaboração é um valor por aqui. Se eu puder ajudar em qualquer coisa, é só me chamar que vou ficar feliz em ajudar!
 
