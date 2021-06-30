@@ -42,7 +42,7 @@ Se há alguns anos alguém me dissesse que eu trocaria o curso de Filosofia por 
 <img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap&logoColor=836FFF" alt="Bootstrap logo" title="ESLint" height="25" />
 
 ## 📖 Pretendo aprender em breve:
-<img src="https://img.shields.io/badge/MySQL-282C34?logo=MySQL&logoColor=ffa500" alt="Redux logo" title="MySQL" height="25" />
+<img src="https://img.shields.io/badge/MySQL-282C34?logo=MySQL&logoColor=ffa500" alt="Redux logo" title="MySQL" height="25" /> <img src="https://img.shields.io/badge/Docker-282C34?logo=Docker&logoColor=2496ed" alt="Docker logo" title="Docker" height="25" /> <img src="https://img.shields.io/badge/Node.js-282C34?logo=Node.js&logoColor=#339933" alt="Node logo" title="Node" height="25" />
 
 <br />
 
