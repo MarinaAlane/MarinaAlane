@@ -33,16 +33,23 @@ Se há alguns anos alguém me dissesse que eu trocaria o curso de Filosofia por 
 <img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />
 <img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" alt="React logo" title="React.js / React Native" height="25" />
 <img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="25" />
-<img src="https://img.shields.io/badge/Jest-282C34?logo=jest&logoColor=cc0000" alt="Jest logo" title="Jest" height="25" /> <img src="https://img.shields.io/badge/MySQL-282C34?logo=MySQL&logoColor=f29111" alt="Redux logo" title="MySQL" height="25" /> <img src="https://img.shields.io/badge/MongoDB-282C34?logo=MongoDB&logoColor=589636" alt="MongoDB logo" title="Mongo" height="25" />
+<img src="https://img.shields.io/badge/Jest-282C34?logo=jest&logoColor=cc0000" alt="Jest logo" title="Jest" height="25" /> <img src="https://img.shields.io/badge/MySQL-282C34?logo=MySQL&logoColor=f29111" alt="Redux logo" title="MySQL" height="25" /> <img src="https://img.shields.io/badge/MongoDB-282C34?logo=MongoDB&logoColor=589636" alt="MongoDB logo" title="Mongo" height="25" /> <img src="https://img.shields.io/badge/Node.js-282C34?logo=Node.js&logoColor=#339933" alt="Node logo" title="Node" height="25" /> <img src="https://img.shields.io/badge/Express-282C34?logo=Express&logoColor=#339933" alt="Express logo" title="Express" height="25" />
 
   
 ## 🛠️ Eu costumo usar:
-<img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /> <img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git 836FFFlogo" title="git" height="25" /> 
+<img src="https://img.shields.io/badge/Linux-282C34?logo=Linux&logoColor=FFFFFF" alt="Linux logo" title="Linux" height="25" /> <img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /> <img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git 836FFFlogo" title="git" height="25" /> 
 <img src="https://img.shields.io/badge/ESLint-282C34?logo=eslint&logoColor=191970" alt191970="ESLint logo" title="ESLint" height="25" />
 <img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap&logoColor=836FFF" alt="Bootstrap logo" title="ESLint" height="25" />
+<img src="https://img.shields.io/badge/Notion-282C34?logo=notion&logoColor=FFFFF" alt="Notion logo" title="Notion" height="25" />
+<img src="https://img.shields.io/badge/Slack-282C34?logo=Slack&logoColor=2EB67D" alt="Slack logo" title="Slack" height="25" />
+
+
+
+
 
 ## 📖 Pretendo aprender em breve:
-<img src="https://img.shields.io/badge/Kotlin-282C34?logo=Kotlin&logoColor=F6891F" alt="Kotlin logo" title="MySQL" height="25" /> <img src="https://img.shields.io/badge/Docker-282C34?logo=Docker&logoColor=2496ed" alt="Docker logo" title="Docker" height="25" /> <img src="https://img.shields.io/badge/Node.js-282C34?logo=Node.js&logoColor=#339933" alt="Node logo" title="Node" height="25" /> <img src="https://img.shields.io/badge/Express-282C34?logo=Express&logoColor=#339933" alt="Express logo" title="Express" height="25" />
+<img src="https://img.shields.io/badge/Kotlin-282C34?logo=Kotlin&logoColor=F6891F" alt="Kotlin logo" title="MySQL" height="25" /> <img src="https://img.shields.io/badge/Docker-282C34?logo=Docker&logoColor=2496ed" alt="Docker logo" title="Docker" height="25" /> <img src="https://img.shields.io/badge/PHP-282C34?logo=PHP&logoColor=#339933" alt="PHP logo" title="PHP" height="25" /> <img
+src="https://img.shields.io/badge/Laravel-282C34?logo=Laravel&logoColor=#339933" alt="Laravel logo" title="Laravel" height="25" /> 
 
 <br />
 
