@@ -8,22 +8,22 @@
 Se há alguns anos alguém me dissesse que eu trocaria o curso de Filosofia por Programação, provavelmente eu falaria pra pessoa parar de viajar. Mas essa está sendo a melhor viagem da minha vida até agora!
 
 <br />
-<br />
 
 
-  :heart: Apaixonada por gatos e baleias!
+  :heart: Apaixonada por gatos e baleias
+  
+  
+  🧩    Adoro montar quebra-cabeças
   
   
   📺    Pra relaxar, nada como um bom reality show
   
   
-  🖥️    Me encontrei na programação
+  🖥️    Acredito na programação para impactar positivamente a vida das pessoas
   
   
-  💡    Colaboração é um valor por aqui. Se eu puder ajudar em qualquer coisa, é só me chamar que vou ficar feliz em ajudar!
+  💡    Colaboração é um valor por aqui. É só me chamar que vou ficar feliz em ajudar!
 
-<br />
-<br />
 <br />
 
 
