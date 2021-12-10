@@ -48,8 +48,7 @@ Se há alguns anos alguém me dissesse que eu trocaria o curso de Filosofia por 
 
 
 ## 📖 Pretendo aprender em breve:
-<img src="https://img.shields.io/badge/Kotlin-282C34?logo=Kotlin&logoColor=F6891F" alt="Kotlin logo" title="MySQL" height="25" /> <img src="https://img.shields.io/badge/Docker-282C34?logo=Docker&logoColor=2496ed" alt="Docker logo" title="Docker" height="25" /> <img src="https://img.shields.io/badge/PHP-282C34?logo=PHP&logoColor=#339933" alt="PHP logo" title="PHP" height="25" /> <img
-src="https://img.shields.io/badge/Laravel-282C34?logo=Laravel&logoColor=#339933" alt="Laravel logo" title="Laravel" height="25" /> 
+<img src="https://img.shields.io/badge/Kotlin-282C34?logo=Kotlin&logoColor=F6891F" alt="Kotlin logo" title="MySQL" height="25" /> <img src="https://img.shields.io/badge/Docker-282C34?logo=Docker&logoColor=2496ed" alt="Docker logo" title="Docker" height="25" /> <img src="https://img.shields.io/badge/Ruby-282C34?logo=Ruby&logoColor=cc0000" alt="Ruby logo" title="Ruby" height="25" />
 
 <br />
 
