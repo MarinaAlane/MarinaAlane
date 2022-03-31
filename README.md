@@ -3,7 +3,7 @@
 <img src='https://media.giphy.com/media/Vh2Ap0KMAEoMhmBzdK/giphy.gif' align='left' height='350px'>
 
 
- #### Desenvolvedora FullStack Jr na [Vakinha](https://www.vakinha.com.br/) e estudante na [Trybe](https://www.betrybe.com/)🧑🏼‍💻 :cow:
+ #### Desenvolvedora FullStack Jr na [Vakinha](https://www.vakinha.com.br/)🧑🏼‍💻 :cow:
 
 Se há alguns anos alguém me dissesse que eu trocaria o curso de Filosofia por Programação, provavelmente eu falaria pra pessoa parar de viajar. Mas essa está sendo a melhor viagem da minha vida até agora!
 
@@ -33,7 +33,7 @@ Se há alguns anos alguém me dissesse que eu trocaria o curso de Filosofia por 
 <img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />
 <img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" alt="React logo" title="React.js / React Native" height="25" />
 <img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="25" />
-<img src="https://img.shields.io/badge/Jest-282C34?logo=jest&logoColor=cc0000" alt="Jest logo" title="Jest" height="25" /> <img src="https://img.shields.io/badge/MySQL-282C34?logo=MySQL&logoColor=f29111" alt="Redux logo" title="MySQL" height="25" /> <img src="https://img.shields.io/badge/MongoDB-282C34?logo=MongoDB&logoColor=589636" alt="MongoDB logo" title="Mongo" height="25" /> <img src="https://img.shields.io/badge/Node.js-282C34?logo=Node.js&logoColor=#339933" alt="Node logo" title="Node" height="25" /> <img src="https://img.shields.io/badge/Express-282C34?logo=Express&logoColor=#339933" alt="Express logo" title="Express" height="25" />
+<img src="https://img.shields.io/badge/Jest-282C34?logo=jest&logoColor=cc0000" alt="Jest logo" title="Jest" height="25" /> <img src="https://img.shields.io/badge/MySQL-282C34?logo=MySQL&logoColor=f29111" alt="Redux logo" title="MySQL" height="25" /> <img src="https://img.shields.io/badge/MongoDB-282C34?logo=MongoDB&logoColor=589636" alt="MongoDB logo" title="Mongo" height="25" /> <img src="https://img.shields.io/badge/Node.js-282C34?logo=Node.js&logoColor=#339933" alt="Node logo" title="Node" height="25" /> <img src="https://img.shields.io/badge/Express-282C34?logo=Express&logoColor=#339933" alt="Express logo" title="Express" height="25" /> <img src="https://img.shields.io/badge/Ruby-282C34?logo=Ruby&logoColor=cc0000" alt="Ruby logo" title="Ruby" height="25" /> <img src="https://img.shields.io/badge/Python-282C34?logo=Python&logoColor=4584b6" alt="Python logo" title="Python" height="25" />
 
   
 ## 🛠️ Eu costumo usar:
@@ -48,7 +48,7 @@ Se há alguns anos alguém me dissesse que eu trocaria o curso de Filosofia por 
 
 
 ## 📖 Pretendo aprender em breve:
-<img src="https://img.shields.io/badge/Kotlin-282C34?logo=Kotlin&logoColor=F6891F" alt="Kotlin logo" title="MySQL" height="25" /> <img src="https://img.shields.io/badge/Docker-282C34?logo=Docker&logoColor=2496ed" alt="Docker logo" title="Docker" height="25" /> <img src="https://img.shields.io/badge/Ruby-282C34?logo=Ruby&logoColor=cc0000" alt="Ruby logo" title="Ruby" height="25" />
+<img src="https://img.shields.io/badge/Kotlin-282C34?logo=Kotlin&logoColor=F6891F" alt="Kotlin logo" title="MySQL" height="25" /> <img src="https://img.shields.io/badge/Docker-282C34?logo=Docker&logoColor=2496ed" alt="Docker logo" title="Docker" height="25" /> 
 
 <br />
 
