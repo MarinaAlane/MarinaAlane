@@ -1,4 +1,4 @@
-<div align='center'> <h1> Oi, aqui é a Marina! Fique à vontade por aqui!</h1></div>
+<div align='center'> <h1> Oi!! Fique à vontade por aqui!</h1></div>
 
  #### Desenvolvedora FullStack Jr na [Vakinha](https://www.vakinha.com.br/)🧑🏼‍💻 :cow:
 
