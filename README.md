@@ -49,10 +49,6 @@ Se há alguns anos alguém me dissesse que eu trocaria o curso de Filosofia por 
 
 <br />
 
-<img src='https://github-readme-stats.vercel.app/api?username=MarinaAlane&theme=dracula&show_icons=true'>
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=MarinaAlane&layout=compact'>
-<br />
-<br />
 
 [![LinkedIn](linkedin1.png)](https://www.linkedin.com/in/marina-alane/)
 [![Instagram](instagram.png)](https://www.instagram.com/alanemarina/)
