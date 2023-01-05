@@ -2,23 +2,27 @@
 
  #### Desenvolvedora FullStack Jr na [Vakinha](https://www.vakinha.com.br/)🧑🏼‍💻 :cow:
 
-Se há alguns anos alguém me dissesse que eu trocaria o curso de Filosofia por Programação, provavelmente eu falaria pra pessoa parar de viajar. Mas essa está sendo a melhor viagem da minha vida até agora!
+Se há alguns anos alguém me dissesse que eu trocaria o curso de Filosofia por Programação, provavelmente eu falaria pra pessoa parar de viajar. Mas essa está sendo a mais significativa e divertida até agora !
 
 <br />
 
 
+
   :heart: Apaixonada por gatos e baleias
-  
-  
+
+
   🧩    Adoro montar quebra-cabeças
-  
-  
-  📺    Pra relaxar, nada como um bom reality show
-  
-  
+
+
+  📺    Pra relaxar, nada como um bom <s>ou nem tão bom assim</s> reality show
+
+
   🖥️    Acredito na programação para impactar positivamente a vida das pessoas
-  
-  
+
+
+  🐈    Voluntária na ong para gatos Catland
+
+
   💡    Colaboração é um valor por aqui. É só me chamar que vou ficar feliz em ajudar!
 
 <br />
@@ -31,6 +35,7 @@ Se há alguns anos alguém me dissesse que eu trocaria o curso de Filosofia por 
 <img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" alt="React logo" title="React.js / React Native" height="25" />
 <img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="25" />
 <img src="https://img.shields.io/badge/Jest-282C34?logo=jest&logoColor=cc0000" alt="Jest logo" title="Jest" height="25" /> <img src="https://img.shields.io/badge/MySQL-282C34?logo=MySQL&logoColor=f29111" alt="Redux logo" title="MySQL" height="25" /> <img src="https://img.shields.io/badge/MongoDB-282C34?logo=MongoDB&logoColor=589636" alt="MongoDB logo" title="Mongo" height="25" /> <img src="https://img.shields.io/badge/Node.js-282C34?logo=Node.js&logoColor=#339933" alt="Node logo" title="Node" height="25" /> <img src="https://img.shields.io/badge/Express-282C34?logo=Express&logoColor=#339933" alt="Express logo" title="Express" height="25" /> <img src="https://img.shields.io/badge/Ruby-282C34?logo=Ruby&logoColor=cc0000" alt="Ruby logo" title="Ruby" height="25" /> <img src="https://img.shields.io/badge/Python-282C34?logo=Python&logoColor=4584b6" alt="Python logo" title="Python" height="25" />
+<img src="https://img.shields.io/badge/Cypress-282C34?logo=cypress&logoColor=0000" alt="Cypress logo" title="Cypress" height="25" />
 
   
 ## 🛠️ Eu costumo usar:
@@ -39,13 +44,12 @@ Se há alguns anos alguém me dissesse que eu trocaria o curso de Filosofia por 
 <img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap&logoColor=836FFF" alt="Bootstrap logo" title="ESLint" height="25" />
 <img src="https://img.shields.io/badge/Notion-282C34?logo=notion&logoColor=FFFFF" alt="Notion logo" title="Notion" height="25" />
 <img src="https://img.shields.io/badge/Slack-282C34?logo=Slack&logoColor=2EB67D" alt="Slack logo" title="Slack" height="25" />
-
-
+<img src="https://img.shields.io/badge/Trello-282C34?logo=Trello&logoColor=007ACC" alt="Trello logo" title="Trello" height="25" />
 
 
 
 ## 📖 Pretendo aprender em breve:
-<img src="https://img.shields.io/badge/Kotlin-282C34?logo=Kotlin&logoColor=F6891F" alt="Kotlin logo" title="MySQL" height="25" /> <img src="https://img.shields.io/badge/Docker-282C34?logo=Docker&logoColor=2496ed" alt="Docker logo" title="Docker" height="25" /> 
+<img src="https://img.shields.io/badge/React-Native-282C34?logo=React-Native&logoColor=F6891F" alt="React Native logo" title="React Native" height="25" /> <img src="https://img.shields.io/badge/Sass-282C34?logo=sass&logoColor=CD6799" alt="Sass logo" title="Sass" height="25" />
 
 <br />
 
