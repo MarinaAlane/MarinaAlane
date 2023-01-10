@@ -17,7 +17,7 @@ Se há alguns anos alguém me dissesse que eu trocaria o curso de Filosofia por 
   📺    Pra relaxar, nada como um bom <s>ou nem tão bom assim</s> reality show
 
 
-  🖥️    Acredito na programação para impactar positivamente a vida das pessoas
+  🖥️    Acredito na programação para facilitar o dia a dia das pessoas e para deixar minha marquinha no mundo
 
 
   🐈    Voluntária na ong para gatos Catland
