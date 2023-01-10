@@ -1,29 +1,35 @@
 <div align='center'> <h1> Oi!! Fique à vontade por aqui!</h1></div>
 
-<img src='https://media.giphy.com/media/Vh2Ap0KMAEoMhmBzdK/giphy.gif' align='left' height='400px'>
+<img src='https://media.giphy.com/media/9T1XqSUjvbcSTxKLeX/giphy.gif' align='left' height='420px' />
 <br/>
 
- #### Desenvolvedora FullStack Jr na [Vakinha](https://www.vakinha.com.br/)🧑🏼‍💻 :cow:
+ <div align='center'>
 
+ Desenvolvedora FullStack Jr na [Vakinha](https://www.vakinha.com.br/)🧑🏼‍💻 :cow:
+
+ <br />
+ <br />
+ 
 
   :heart: Apaixonada por gatos e baleias
 
-
   🧩    Adoro montar quebra-cabeças
 
-
-  📺    Pra relaxar, nada como um bom <s>ou nem tão bom assim</s> reality show
-
+  📺    Adoro um bom <s>ou nem tão bom assim</s> reality show
 
   🖥️    Acredito na programação para facilitar o dia a dia das pessoas e para deixar minha marquinha no mundo
 
-
   🐈    Voluntária na ong para gatos Catland
 
-
   💡    Colaboração é um valor
+   
+   </div>
 
 <br />
+<br />
+<br />
+
+
 
 
  ## 📚 Aprendendo sempre mais:
