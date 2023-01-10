@@ -2,10 +2,7 @@
 
  #### Desenvolvedora FullStack Jr na [Vakinha](https://www.vakinha.com.br/)🧑🏼‍💻 :cow:
 
-Se há alguns anos alguém me dissesse que eu trocaria o curso de Filosofia por Programação, provavelmente eu falaria pra pessoa parar de viajar. Mas essa está sendo a mais significativa e divertida até agora !
-
 <br />
-
 
 
   :heart: Apaixonada por gatos e baleias
@@ -23,7 +20,7 @@ Se há alguns anos alguém me dissesse que eu trocaria o curso de Filosofia por 
   🐈    Voluntária na ong para gatos Catland
 
 
-  💡    Colaboração é um valor por aqui. É só me chamar que vou ficar feliz em ajudar!
+  💡    Colaboração é um valor
 
 <br />
 
