@@ -1,4 +1,4 @@
-<div align='center'> <h1> Oi!! Seja bem vindo! </h1></div>
+<div align='center'> <h1> Oi!! Seja bem vinde! </h1></div>
 
 <img src='https://media.giphy.com/media/9T1XqSUjvbcSTxKLeX/giphy.gif' align='left' height='420px' />
 <br/>
