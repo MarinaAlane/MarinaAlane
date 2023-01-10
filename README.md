@@ -1,8 +1,9 @@
 <div align='center'> <h1> Oi!! Fique à vontade por aqui!</h1></div>
 
- #### Desenvolvedora FullStack Jr na [Vakinha](https://www.vakinha.com.br/)🧑🏼‍💻 :cow:
+<img src='https://media.giphy.com/media/Vh2Ap0KMAEoMhmBzdK/giphy.gif' align='left' height='400px'>
+<br/>
 
-<br />
+ #### Desenvolvedora FullStack Jr na [Vakinha](https://www.vakinha.com.br/)🧑🏼‍💻 :cow:
 
 
   :heart: Apaixonada por gatos e baleias
@@ -46,7 +47,10 @@
 
 
 ## 📖 Pretendo aprender em breve:
-<img src="https://img.shields.io/badge/React-Native-282C34?logo=React-Native&logoColor=F6891F" alt="React Native logo" title="React Native" height="25" /> <img src="https://img.shields.io/badge/Sass-282C34?logo=sass&logoColor=CD6799" alt="Sass logo" title="Sass" height="25" />
+ <img src="https://img.shields.io/badge/React_Native-282C34?logo=react&logoColor=61DAFB" alt="React logo" title="React Native" height="25" /> <img src="https://img.shields.io/badge/Sass-282C34?logo=sass&logoColor=CD6799" alt="Sass logo" title="Sass" height="25" />
+<img src="https://img.shields.io/badge/Expo-282C34?logo=expo&logoColor=0000" alt="Expo logo" title="Expo" height="25" /> <img src="https://img.shields.io/badge/Figma-282C34?logo=figma&logoColor=939" alt="Figma logo" title="Figma" height="25" />
+
+
 
 <br />
 
