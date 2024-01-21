@@ -1,19 +1,12 @@
-<div align='center'> <h1> Oi!! Seja bem vinde! </h1></div>
+<strong>Desenvolvedora FullStack Jr na [Vakinha](https://www.vakinha.com.br/)🧑🏼‍💻 :cow:</strong>
+<br />
+<br />
+<br />
 
-<img src='https://media.giphy.com/media/9T1XqSUjvbcSTxKLeX/giphy.gif' align='left' height='420px' />
-<br/>
 
- <div align='center'>
+   :heart: Apaixonada por gatos e baleias
 
- Desenvolvedora FullStack Jr na [Vakinha](https://www.vakinha.com.br/)🧑🏼‍💻 :cow:
-
- <br />
- <br />
- 
-
-  :heart: Apaixonada por gatos e baleias
-
-  🧩    Adoro montar quebra-cabeças
+  :heart_eyes_cat:   Mãe de pet ( dois gatos: Ana Catarina e Alecrim )
 
   📺    Adoro um bom <s>ou nem tão bom assim</s> reality show
 
@@ -22,8 +15,8 @@
   🐈    Voluntária na ong para gatos Catland
 
   💡    Colaboração é um valor
-   
-   </div>
+
+ </div>
 
 <br />
 <br />
