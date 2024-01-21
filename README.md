@@ -54,6 +54,12 @@
 <br />
 
 
+<div>
+<a href="https://github.com/MarinaAlane">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarinaAlane&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=MarinaAlane&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
 [![LinkedIn](linkedin1.png)](https://www.linkedin.com/in/marina-alane/)
 [![Instagram](instagram.png)](https://www.instagram.com/alanemarina/)
 [![Mail](mail.png)](mailto:marinaalane17@gmail.com)
