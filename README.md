@@ -1,4 +1,4 @@
-<strong>Desenvolvedora FullStack Jr na [Vakinha](https://www.vakinha.com.br/)🧑🏼‍💻 :cow:</strong>
+<strong>Software developer🧑🏼‍💻</strong>
 <br />
 <br />
 <br />
