@@ -1,4 +1,4 @@
-<strong>Software developer🧑🏼‍💻</strong>
+<strong>Full Stack Software developer🧑🏼‍💻</strong>
 <br />
 <br />
 <br />
