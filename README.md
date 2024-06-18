@@ -1,8 +1,10 @@
-<strong>Full Stack Software developer🧑🏼‍💻</strong>
-<br />
-<br />
-<br />
+<h1 align="center">
+  <p>
+    Olá, tudo bem? Eu sou a <a href="https://www.linkedin.com/in/marina-alane/">Marina</a>, desenvolvedora full stack
+  </p>
+</h1>
 
+   ### Fatos sobre mim <S>que ninguém pediu, mas quero falar mesmo assim:</S>
 
    :heart: Apaixonada por gatos e baleias
 
@@ -14,40 +16,43 @@
 
   🐈    Voluntária na ong para gatos Catland
 
-  💡    Colaboração é um valor
+  💡    Colaboração é um valor, tem alguma dúvida, sugestão, crítica ou quer só trocar uma ideia ? Me chama!
 
  </div>
 
 <br />
 <br />
-<br />
+
+ ## 📚 Já trabalhei e tô sempre aprendendo mais:
+<img alt="HTML" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/HTML.svg"><img alt="CSS" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/CSS.svg">
+<img alt="Typescript" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Typescript.svg">
+<img alt="React" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/React.svg">
+<img alt="Javascript" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Javascript.svg">
+<img alt="Redux" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Redux.svg">
+<img alt="Jest" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Jest.svg">
+<img alt="MongoDB" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/MongoDB.svg">
+<img alt="MySQL" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/MySQL.svg">
+<img alt="Python" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Python.svg">
+<img alt="Rails" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Rails.svg">
+<img alt="NodeJS" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/NodeJS.svg">
+<img alt="GIT" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/GIT.svg">
 
 
-
-
- ## 📚 Aprendendo sempre mais:
-
-<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /> <img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" />
-<img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />
-<img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" alt="React logo" title="React.js / React Native" height="25" />
-<img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="25" />
-<img src="https://img.shields.io/badge/Jest-282C34?logo=jest&logoColor=cc0000" alt="Jest logo" title="Jest" height="25" /> <img src="https://img.shields.io/badge/MySQL-282C34?logo=MySQL&logoColor=f29111" alt="Redux logo" title="MySQL" height="25" /> <img src="https://img.shields.io/badge/MongoDB-282C34?logo=MongoDB&logoColor=589636" alt="MongoDB logo" title="Mongo" height="25" /> <img src="https://img.shields.io/badge/Node.js-282C34?logo=Node.js&logoColor=#339933" alt="Node logo" title="Node" height="25" /> <img src="https://img.shields.io/badge/Express-282C34?logo=Express&logoColor=#339933" alt="Express logo" title="Express" height="25" /> <img src="https://img.shields.io/badge/Ruby-282C34?logo=Ruby&logoColor=cc0000" alt="Ruby logo" title="Ruby" height="25" /> <img src="https://img.shields.io/badge/Python-282C34?logo=Python&logoColor=4584b6" alt="Python logo" title="Python" height="25" />
-<img src="https://img.shields.io/badge/Cypress-282C34?logo=cypress&logoColor=0000" alt="Cypress logo" title="Cypress" height="25" />
-
-  
 ## 🛠️ Eu costumo usar:
-<img src="https://img.shields.io/badge/Linux-282C34?logo=Linux&logoColor=FFFFFF" alt="Linux logo" title="Linux" height="25" /> <img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /> <img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git 836FFFlogo" title="git" height="25" /> 
-<img src="https://img.shields.io/badge/ESLint-282C34?logo=eslint&logoColor=191970" alt191970="ESLint logo" title="ESLint" height="25" />
-<img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap&logoColor=836FFF" alt="Bootstrap logo" title="ESLint" height="25" />
-<img src="https://img.shields.io/badge/Notion-282C34?logo=notion&logoColor=FFFFF" alt="Notion logo" title="Notion" height="25" />
-<img src="https://img.shields.io/badge/Slack-282C34?logo=Slack&logoColor=2EB67D" alt="Slack logo" title="Slack" height="25" />
-<img src="https://img.shields.io/badge/Trello-282C34?logo=Trello&logoColor=007ACC" alt="Trello logo" title="Trello" height="25" />
-
+<img alt="Linux" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Linux.svg"><img alt="VSCode" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/VSCode.svg">
+<img alt="ESLint" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/ESLint.svg">
+<img alt="Bootstrap" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Bootstrap.svg">
+<img alt="Slack" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Slack.svg">
+<img alt="Notion" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Notion.svg">
+<img alt="Trello" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Trello.svg">
+<img alt="Figma" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Figma.svg">
 
 
 ## 📖 Pretendo aprender em breve:
- <img src="https://img.shields.io/badge/React_Native-282C34?logo=react&logoColor=61DAFB" alt="React logo" title="React Native" height="25" /> <img src="https://img.shields.io/badge/Sass-282C34?logo=sass&logoColor=CD6799" alt="Sass logo" title="Sass" height="25" />
-<img src="https://img.shields.io/badge/Expo-282C34?logo=expo&logoColor=0000" alt="Expo logo" title="Expo" height="25" /> <img src="https://img.shields.io/badge/Figma-282C34?logo=figma&logoColor=939" alt="Figma logo" title="Figma" height="25" />
+<img alt="Java" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Java.svg"><img alt="Docker" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Docker.svg">
+<img alt="AWS" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/AWS.svg">
+<img alt="TailwindCSS" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/TailwindCSS.svg">
+
 
 
 
