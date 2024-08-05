@@ -10,8 +10,8 @@
 
   :heart_eyes_cat:   Mãe de pet ( dois gatos: Ana Catarina e Alecrim )
 
-  📺    Adoro um bom <s>ou nem tão bom assim</s> reality show
-
+  :jigsaw:  Adoro montar quebra cabeças
+  
   🖥️    Acredito na programação para facilitar o dia a dia das pessoas e para deixar minha marquinha no mundo
 
   🐈    Voluntária na ong para gatos Catland
