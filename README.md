@@ -1,6 +1,6 @@
 <h1 align="center">
   <p>
-    Olá, tudo bem? Eu sou a <a href="https://www.linkedin.com/in/marina-alane/">Marina</a>, desenvolvedora full stack
+    Oi, tudo bem? Eu sou a <a href="https://www.linkedin.com/in/marina-alane/">Marina</a>, desenvolvedora full stack
   </p>
 </h1>
 
