@@ -24,8 +24,7 @@
 <br />
 
  ## 📚 Já trabalhei e tô sempre aprendendo mais:
-<img alt="CSS" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/CSS.svg">
-<img alt="Typescript" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Typescript.svg">
+<img alt="CSS" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/CSS.svg"><img alt="Typescript" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Typescript.svg">
 <img alt="React" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/React.svg">
 <img alt="Javascript" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Javascript.svg">
 <img alt="Redux" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Redux.svg">
@@ -36,7 +35,7 @@
 <img alt="Rails" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Rails.svg">
 <img alt="NodeJS" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/NodeJS.svg">
 <img alt="GIT" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/GIT.svg">
-<img alt="Docker" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Java.svg"><img alt="Docker" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Docker.svg">
+<img alt="Docker" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Java.svg">
 
 
 ## 🛠️ Eu costumo usar:
@@ -50,8 +49,7 @@
 
 
 ## 📖 Pretendo aprender em breve:
-<img alt="Java" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Java.svg">
-<img alt="AWS" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/AWS.svg">
+<img alt="Java" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Java.svg"><img alt="AWS" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/AWS.svg">
 <img alt="TailwindCSS" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/TailwindCSS.svg">
 
 
