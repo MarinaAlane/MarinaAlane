@@ -24,7 +24,7 @@
 <br />
 
  ## 📚 Já trabalhei e tô sempre aprendendo mais:
-<img alt="HTML" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/HTML.svg"><img alt="CSS" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/CSS.svg">
+<img alt="CSS" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/CSS.svg">
 <img alt="Typescript" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Typescript.svg">
 <img alt="React" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/React.svg">
 <img alt="Javascript" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Javascript.svg">
@@ -50,7 +50,7 @@
 
 
 ## 📖 Pretendo aprender em breve:
-<img alt="Java" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Java.svg"><img alt="Docker" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Java.svg">
+<img alt="Java" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Java.svg">
 <img alt="AWS" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/AWS.svg">
 <img alt="TailwindCSS" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/TailwindCSS.svg">
 
