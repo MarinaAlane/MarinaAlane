@@ -36,6 +36,7 @@
 <img alt="Rails" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Rails.svg">
 <img alt="NodeJS" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/NodeJS.svg">
 <img alt="GIT" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/GIT.svg">
+<img alt="Docker" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Java.svg"><img alt="Docker" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Docker.svg">
 
 
 ## 🛠️ Eu costumo usar:
@@ -49,7 +50,7 @@
 
 
 ## 📖 Pretendo aprender em breve:
-<img alt="Java" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Java.svg"><img alt="Docker" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Docker.svg">
+<img alt="Java" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Java.svg"><img alt="Docker" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Java.svg">
 <img alt="AWS" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/AWS.svg">
 <img alt="TailwindCSS" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/TailwindCSS.svg">
 
