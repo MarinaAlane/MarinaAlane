@@ -3,7 +3,7 @@
     Oi, tudo bem? Eu sou a <a href="https://www.linkedin.com/in/marina-alane/">Marina</a>, desenvolvedora full stack
   </p>
 </h1>
-   ### Fatos sobre mim <S>que ninguém pediu, mas quero falar mesmo assim:</S>
+   <h3>Fatos sobre mim <S>que ninguém pediu, mas quero falar mesmo assim:</S></h3>
 
    :heart: Apaixonada por gatos e baleias
 
