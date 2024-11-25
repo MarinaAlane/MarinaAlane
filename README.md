@@ -15,7 +15,7 @@
 
   🐈    Voluntária na ong para gatos Catland
 
-  💡    Colaboração é um valor, tem alguma dúvida, sugestão, crítica ou quer só trocar uma ideia ? Me chama!
+  💡    Colaboração e comunicação são valores por aqui, tem alguma dúvida, sugestão, crítica ou quer só trocar uma ideia ? Me chama!
 
  </div>
 
