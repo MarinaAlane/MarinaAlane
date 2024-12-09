@@ -4,17 +4,23 @@
   </p>
 </h1>
 
+<p>
+  Sou desenvolvedora full stack com quase 3 anos de experiência com desenvolvimento web com foco em front end responsivo e acessível. Aqui você vai encontrar registros de estudos, rascunhos e projetos pessoais.
+</p>
+
+<h2> Eu sou: </h2>
+
    :heart: Apaixonada por gatos e baleias
 
   :heart_eyes_cat:   Mãe de pet ( dois gatos: Ana Catarina e Alecrim )
 
-  :jigsaw:  Adoro montar quebra cabeças
+  :jigsaw: Aquela que adora montar quebra cabeças
   
-  🖥️    Acredito na programação para facilitar o dia a dia das pessoas e para deixar minha marquinha no mundo
-
+  🖥️    Aquela que crê e ama a ideia e o fato de que a programação tem o papel de facilitar a rotina das pessoas.
+  
   🐈    Voluntária na ong para gatos Catland
 
-  💡    Colaboração e comunicação são valores por aqui, tem alguma dúvida, sugestão, crítica ou quer só trocar uma ideia ? Me chama!
+  💡    Colaborativa por natureza. Colaboração é base e um valor por aqui. Quer trocar ideia sobre algo que viu aqui ? Algo que pode ser melhor ou algo que gerou dúvidas? Fala comigo ! 
 
  </div>
 
