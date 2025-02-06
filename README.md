@@ -5,7 +5,7 @@
 </h1>
 
 <p>
-  Sou desenvolvedora full stack com quase 3 anos de experiência com desenvolvimento web com foco em front end responsivo e acessível. Aqui você vai encontrar registros de estudos, rascunhos e projetos pessoais.
+  Sou desenvolvedora full stack com quase 3 anos de experiência com desenvolvimento web. Aqui você vai encontrar registros de estudos, rascunhos e projetos pessoais.
 </p>
 
 <h2> Eu sou: </h2>
