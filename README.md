@@ -12,7 +12,7 @@
 
    :heart: Apaixonada por gatos e baleias
 
-  :heart_eyes_cat:   Mãe de pet ( dois gatos: Ana Catarina e Alecrim )
+  :heart_eyes_cat:   Mãe de pet ( dois gatos: Ana Catarina e Tarsila )
 
   :jigsaw: Aquela que adora montar quebra cabeças
   
