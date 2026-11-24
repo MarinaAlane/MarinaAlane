@@ -5,20 +5,20 @@
 </h1>
 
 <p>
-  Sou desenvolvedora full stack com quase 3 anos de experiência com desenvolvimento web. Aqui você vai encontrar registros de estudos, rascunhos e projetos pessoais.
+  Sou desenvolvedora full stack com quase 5 anos de experiência com desenvolvimento web. Aqui você vai encontrar registros de estudos, rascunhos e projetos pessoais.
 </p>
 
 <h2> Eu sou: </h2>
 
    :heart: Apaixonada por gatos e baleias
 
-  :heart_eyes_cat:   Mãe de pet ( duas gatas: Ana Catarina e Tarsila )
+  :heart_eyes_cat:   Mãe de pet ( três gatas: Ana Catarina, Tarsila, Alteza)
 
-  :jigsaw: Aquela que adora montar quebra cabeças
+  :jigsaw: Aquela que adora montar quebra cabeças e palavras cruzadas
   
   🖥️    Aquela que crê e ama a ideia e o fato de que a programação tem o papel de facilitar a rotina das pessoas.
   
-  🐈    Voluntária na ong para gatos Catland
+  🐈    Voluntária na ong para gatos Catland e faço lar temporário para gatinhos, resgatando, cuidando e arrumando um lar definitivo pra eles.
 
   💡    Colaborativa por natureza. Colaboração é base e um valor por aqui. Quer trocar ideia sobre algo que viu aqui ? Algo que pode ser melhor ou algo que gerou dúvidas? Fala comigo ! 
 
@@ -27,7 +27,28 @@
 <br />
 <br />
 
+<p>
+  I'm a full-stack developer with almost 5 years of experience in web development. Here you'll find study notes, drafts, and personal projects.
+</p>
+
+<h2> I am: </h2>
+
+  :heart: Passionate about cats and whales
+
+  :heart_eyes_cat: Pet mom (three cats: Ana Catarina, Tarsila, Alteza)
+
+  :jigsaw: Someone who loves putting together jigsaw puzzles and doing crosswords
+
+  🖥️ Someone who believes in and loves the idea—and the fact—that programming exists to make people's daily lives easier.
+
+  🐈 Volunteer at the cat rescue NGO Catland and I rescue cats and act as a foster home, giving them love and care while helping them find a permanent home.
+
+  💡 Collaborative by nature. Collaboration is the foundation and a core value here. Want to bounce around ideas about something you saw here? Something that could be improved or sparked questions? Reach out to me!
+
+</div>
+
  ## 📚 Já trabalhei e tô sempre aprendendo mais:
+ ### I've worked with and am always learning more:
 <img alt="CSS" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/CSS.svg"><img alt="Typescript" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Typescript.svg">
 <img alt="React" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/React.svg">
 <img alt="Javascript" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Javascript.svg">
@@ -43,6 +64,7 @@
 
 
 ## 🛠️ Eu costumo usar:
+### My daily toolkit
 <img alt="Linux" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Linux.svg"><img alt="VSCode" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/VSCode.svg">
 <img alt="ESLint" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/ESLint.svg">
 <img alt="Bootstrap" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Bootstrap.svg">
@@ -53,6 +75,7 @@
 
 
 ## 📖 Pretendo aprender em breve:
+## I What I plan to learn soon
 <img alt="Java" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Java.svg"><img alt="AWS" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/AWS.svg">
 <img alt="TailwindCSS" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/TailwindCSS.svg">
 
